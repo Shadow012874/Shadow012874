@@ -1,6 +1,6 @@
 <html>
     <title>
-        <i>Make atom energy</i>
+        Make atom energy
     </title>
     <body>
     <header style="background-color:black">
