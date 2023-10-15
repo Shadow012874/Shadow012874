@@ -5,7 +5,7 @@
     <body>
     <header style="background-color:black">
     <a href="https://pressa.tv/comics/">Кому просто лень ето читать посмотрите мемы</a>
-     <p style="color:white;">Как создать ядерный реактор в домашних условиях</p>
+     <p style="color:white;">Как создать ядерный реактор в домашних условиях(на етом сайте нет реклами)</p>
      <img src="https://habrastorage.org/r/w1560/getpro/habr/comment_images/212/37d/b87/21237db87c4e7d22b68a239dfcebf2b5.jpg"/>
     </header>
     <main style="background-color:lightgray">
