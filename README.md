@@ -1,7 +1,9 @@
 <html>
+    <head>
     <title>
         <i>GeographyProject</i>
     </title>
+    </head>
     <body>
     <header style="background-color:black">
      <h1 style="color:blue;">Гідросфера Землі є надзвичайно важливою для підтримки життя на нашій планеті</h1>
